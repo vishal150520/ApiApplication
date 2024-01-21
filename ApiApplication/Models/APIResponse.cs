@@ -1,4 +1,4 @@
-﻿namespace hiperbrains.api.Models
+﻿namespace ApiApplication.Models
 {
     public class ApiResponse<T>
     {

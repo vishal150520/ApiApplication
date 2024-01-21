@@ -23,6 +23,7 @@ namespace ApiApplication.Services
                         FirstName = users.FirstName,
                         Lastname = users.Lastname,
                         Email = users.Email,
+                        Password = users.Password,
                         IsVerified = false,
                         Phone = users.Phone,
                         ModifiedDate = DateTime.UtcNow,

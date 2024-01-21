@@ -1,6 +1,5 @@
 ﻿using ApiApplication.Models;
 using ApiApplication.Services;
-using hiperbrains.api.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ApiApplication.Controllers
